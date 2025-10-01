@@ -63,8 +63,10 @@ Git \- це програма, яка допомагає відслідковув
 **3.1. Ми зареєстрували акаунти на GitHub.** 
 
 зображення. 1\. \- акаунт Сорокуна Артура.
+<img width="578" height="303" alt="image" src="https://github.com/user-attachments/assets/322d9e3e-93b1-4cd5-b191-bd31b7321f29" />
 
 зображення. 2\. \- акаунт Пястука Артема.
+<img width="597" height="312" alt="image" src="https://github.com/user-attachments/assets/5f5d606f-057c-4ce0-bab4-4b1dd5dd899a" />
 
 **3.2. ми створили новий публічний репозиторій під назвою [OS-Sorokun-Butrik-Pyastuk](https://github.com/Artur090907/OS-Sorokun-Butrik-Pyastuk).**
 
@@ -78,7 +80,9 @@ Git \- це програма, яка допомагає відслідковув
 
 **Ми розмістили наш перший колективний звіт про виконаний Work-case 1 звіт створеному репозиторії. У Git були зроблені комміти від кожного учасника команди, щоб зафіксувати внесок усіх.**
 
+
 зображення. 5\. \-  звіт про виконаний Work-case 1 та комміти від кожного учасника команди
+![Uploading image.png…]()
 
 **Dictionary of English Terms (виконував Бутрік Артем).**
 
