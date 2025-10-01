@@ -37,33 +37,45 @@
 [https://www.virtualbox.org/](https://www.virtualbox.org/)
 
 **Рисунок 1.1. треба нажати** Get Started для **встановлення Oracle VirtualBox**   
-**![][image1]**
+<img width="265" height="128" alt="image" src="https://github.com/user-attachments/assets/fff1c3fe-73bc-4f36-91f4-f07b583a531e" />
+
 
 **Рисунок 1.2. тут треба обрати платформу**  
-**![][image2]**
+<img width="323" height="178" alt="image" src="https://github.com/user-attachments/assets/ce6fbd4b-4033-44a4-947d-9796330fff04" />
+
 
 #### **2\. Базові дії в гіпервізорі**
 
 #### **Створення нової віртуальної машини**  Виконується через кнопку *New*, вказується ім’я, тип ОС (Linux, Windows, інші), розмір оперативної пам’яті та створюється віртуальний диск.
 
-**Рисунок 2.1. Менеджер віртуальної машини Oracle VirtualBox**![][image3]
+**Рисунок 2.1. Менеджер віртуальної машини Oracle VirtualBox**
+<img width="598" height="413" alt="image" src="https://github.com/user-attachments/assets/6d7aaedc-a98a-42b9-9701-72ed27cc64f0" />
 
-**Рисунок 2.2. Майстер створення віртуальної машини**![][image4]
 
-#### **Рисунок 2.3. Крок назви віртуальної машини та типу ОС![][image5]**
+**Рисунок 2.2. Майстер створення віртуальної машини**
+<img width="498" height="329" alt="image" src="https://github.com/user-attachments/assets/e7b19ae4-a775-4f9b-81ac-29ee39de3702" />
 
-**Рисунок 2.4. Крок створення віртуального жорсткого диска![][image6]**
+#### **Рисунок 2.3. Крок назви віртуальної машини та типу ОС
+<img width="499" height="327" alt="image" src="https://github.com/user-attachments/assets/a844d46c-1f90-45e0-b128-9dec7d3c2f97" />
+
+**Рисунок 2.4. Крок створення віртуального жорсткого диска
+<img width="498" height="326" alt="image" src="https://github.com/user-attachments/assets/15a88301-700d-4224-9093-fa9ba013cf55" />
 
 **Рисунок 2.5. Додано віртуальну машину**  
-**![][image7]**
+<img width="595" height="413" alt="image" src="https://github.com/user-attachments/assets/660bd154-e863-45ba-ae3d-ead96dc1cdf8" />
+
 
 #### 
 
 #### **Додавання обладнання**  У налаштуваннях ВМ можна підключати: віртуальні диски (HDD, SSD); додаткові мережеві адаптери; контролери USB; звукові та відеоадаптери.
 
-#### **Рисунок 2.6. Налаштування сховища віртуальної машини![][image8]**
+#### **Рисунок 2.6. Налаштування сховища віртуальної машини
+<img width="501" height="399" alt="image" src="https://github.com/user-attachments/assets/4a64532e-9843-473a-90e9-d4a11b307293" />
 
-**Рисунок 2.7. Налаштування приводу CD/DVD віртуальної машини![][image9]**
+
+**Рисунок 2.7. Налаштування приводу CD/DVD віртуальної машини
+<img width="499" height="394" alt="image" src="https://github.com/user-attachments/assets/2886642a-a157-4fc8-9e71-5c2821d51b1d" />
+
 
 #### **Налаштування мережі та Wi-Fi**  Підтримуються режими: NAT (доступ до інтернету через хост); Bridged Adapter (ВМ у локальній мережі з хостом); Host-Only (лише з’єднання з хостом); Internal Network (внутрішня мережа між ВМ).  Wi-Fi використовується через адаптер хоста. **Робота з зовнішніми носіями**  За допомогою USB Controller у VirtualBox можна підключати flash-накопичувачі безпосередньо до ВМ. **3\.** **Встановлення GNU/Linux у базовій конфігурації**
 
