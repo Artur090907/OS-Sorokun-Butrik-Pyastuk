@@ -1,4 +1,4 @@
-“Київський фаховий коледж зв’язку”
+<img width="1426" height="746" alt="image" src="https://github.com/user-attachments/assets/e6ee7e59-8577-4853-bd60-bd44f908e8de" />“Київський фаховий коледж зв’язку”
 
 Циклова комісія комп’ютерної та програмної інженерії
 
@@ -82,7 +82,8 @@ Git \- це програма, яка допомагає відслідковув
 
 
 зображення. 5\. \-  звіт про виконаний Work-case 1 та комміти від кожного учасника команди
-![Uploading image.png…]()
+<img width="1426" height="746" alt="image" src="https://github.com/user-attachments/assets/2de07a9b-fb20-4fe4-9d26-2c30c67db4bb" />
+
 
 **Dictionary of English Terms (виконував Бутрік Артем).**
 
